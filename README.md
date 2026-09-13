@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=SHABHAI_SHAKIR&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20C%2B%2B%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"/>
 
@@ -6,15 +6,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00C6FF&style=for-the-badge"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00C6FF&style=for-the-badg
 
 ---
 
 ## 👋 About Me
 
-I'm a **2nd-year Computer Engineering student** interested in software development, problem-solving, and building practical solutions for real-world problems.
+I'm a **12 std school Computer Engineering student** interested in software at anne development, problem-solving, and building practical solutions for real-world problems.
 
 I mainly focus on **C++** and I'm currently strengthening my foundations in **Data Structures, Algorithms, DBMS, SQL, and Web Development**.
 
